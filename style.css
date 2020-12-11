@@ -1,0 +1,57 @@
+
+@font-face {
+    font-family: "Imagine";
+    src: url(Imagine_font.ttf);
+}
+
+* {
+    font-family: "Imagine";
+    padding: 0;
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    background-color: floralwhite;
+}
+.flex-container {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    padding-top: 5%;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: flex-start;
+}
+
+
+.header {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: 10%;
+    font-size: 4em;
+}
+
+.header2 {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: 5%;
+    font-size: 2em;
+}
+
+#sketch {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: auto;
+    font-size: 2em;
+}
