@@ -15,6 +15,7 @@ html, body {
 body {
     margin: 0;
     background-color: floralwhite;
+    overflow: hidden;
 }
 .flex-container {
     height: 100%;
@@ -63,7 +64,7 @@ input {
 }
 
 .nav {
-    width: 10%;
+    width: 20%;
     justify-content: center;
     text-align: center;
 }

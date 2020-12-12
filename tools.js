@@ -1,6 +1,7 @@
 const sketches = [
     "1.js",
-    "2.js"
+    "2.js",
+    "3.js"
 ];
 
 // Thankyou stackoverflow
