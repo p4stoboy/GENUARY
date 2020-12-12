@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-    stroke(255);
+    stroke(0);
     textSize(32);
     text('coming soon', 10, 30);
 }
