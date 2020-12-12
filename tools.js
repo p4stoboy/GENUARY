@@ -25,7 +25,7 @@ function drop_down(index) {
     if (index > 1) {
         prev.innerHTML += `<a href = "http://p4stoboy.github.io/GENUARY/?sketch=${(index - 1).toString()}">prev</a>`;
     }
-    if (index < sketches.length + 1) {
+    if (index < sketches.length) {
         next.innerHTML += `<a href = "http://p4stoboy.github.io/GENUARY/?sketch=${(index + 1).toString()}">next</a>`;
     }
 }
