@@ -11,6 +11,7 @@ function getParameterByName(name) {
     return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
 
+// create form
 function drop_down() {
     let f_string = "";
     for (let i = 0; i < sketches.length; i++) {
