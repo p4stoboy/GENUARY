@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: "Imagine";
-    src: url(Imagine_font.ttf);
+    src: url('/Imagine_font.ttf');
 }
 
 * {
