@@ -1,7 +1,7 @@
 const sketches = [
-    "1.js",
-    "2.js",
-    "3.js"
+    {sketch: "1.js", title: 'Triple nested loop'},
+    {sketch: "2.js", title: 'Rule 30'},
+    {sketch: "3.js", title: 'Make something human'},
 ];
 
 // Thankyou stackoverflow
@@ -13,19 +13,21 @@ function getParameterByName(name) {
 }
 
 // create form
-function drop_down(index) {
+function load_stuff_lol(index) {
     let f_string = "";
     for (let i = 0; i < sketches.length; i++) {
-        f_string += `<option value = "${i + 1}">${i + 1}</option>`;
+        f_string += `<option value = "${i + 1}">Jan ${i + 1}</option>`;
     }
     const select = document.getElementById("sketches_dd");
     select.innerHTML = f_string;
     const prev = document.getElementById("prev");
     const next = document.getElementById("next");
+    const title = document.getElementById("title");
     if (index > 1) {
         prev.innerHTML += `<a href = "http://p4stoboy.github.io/GENUARY/?sketch=${(index - 1).toString()}">prev</a>`;
     }
     if (index < sketches.length) {
         next.innerHTML += `<a href = "http://p4stoboy.github.io/GENUARY/?sketch=${(index + 1).toString()}">next</a>`;
     }
+    title.innerHTML = `Jan ${index} - ${sketches[index - 1].title}`;
 }

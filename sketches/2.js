@@ -5,8 +5,7 @@ function setup() {
 }
 
 function draw() {
-    stroke(255);
-    if (mouseIsPressed === true) {
-        line(mouseX, mouseY, pmouseX, pmouseY);
-    }
+    stroke(0);
+    textSize(32);
+    text('coming soon', 10, 30);
 }

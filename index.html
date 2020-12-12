@@ -6,15 +6,15 @@
     <script>
         let index = getParameterByName("sketch");
         index = index ? parseInt(index) -1 : 0;
-        const sketch = sketches[index];
-        console.log(sketches[index]);
+        const sketch = sketches[index].sketch;
         document.write(`<script type='text/javascript' src='sketches/${sketch}'><\/script>`);
     </script>
 </head>
-<body onload = "drop_down(index + 1)">
+<body onload = "load_stuff_lol(index + 1)">
 <div class = "flex-container">
     <div class = "header">GENUARY 2021</div>
     <div class = "header2">by p4stoboy</div>
+    <div class = "header3" id = "title"></div>
     <div id = "sketch"></div>
     <div class = "nav" id = "prev">
     </div>
@@ -27,7 +27,7 @@
         </form>
     </div>
     <div class = "bottomnav">
-        <a href = "https://genuary2021.github.io/" target = "_blank">Genuary on github</a>
+         <a href = "https://github.com/p4stoboy/GENUARY/tree/master/sketches" target = "_blank">Source code</a>  /  <a href = "https://twitter.com/p4sto_programs" target = "_blank">Dev twitter</a> / <a href = "https://genuary2021.github.io/" target = "_blank">Genuary on github</a>
     </div>
 </div>
 </body>
