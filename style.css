@@ -68,6 +68,13 @@ input {
     text-align: center;
 }
 
+.bottomnav {
+    height: 2%;
+    padding-top: 2%;
+    width: 100%;
+    text-align: center;
+}
+
 #sketch {
     justify-content: center;
     display: flex;
