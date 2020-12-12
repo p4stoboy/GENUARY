@@ -11,15 +11,19 @@
         document.write(`<script type='text/javascript' src='sketches/${sketch}'><\/script>`);
     </script>
 </head>
-<body onload = "drop_down()">
+<body onload = "drop_down(index + 1)">
 <div class = "flex-container">
     <div class = "header">GENUARY 2021</div>
     <div class = "header2">by p4stoboy</div>
     <div id = "sketch"></div>
+    <div class = "nav" id = "prev">
+    </div>
+    <div class = "nav" id = "next">
+    </div>
     <div class = "header2">
         <form method="GET">
         <select id = "sketches_dd" name = "sketch"></select>
-        <input type="submit" />
+            <input type="submit" value = "Go to sketch"/>
         </form>
     </div>
 </div>

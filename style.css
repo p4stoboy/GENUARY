@@ -48,6 +48,26 @@ body {
     font-size: 2em;
 }
 
+a {
+    font-size: 1em;
+    color: black;
+}
+a:visited {
+    color: black;
+}
+
+input {
+    font-size: 0.6em;
+    border: none;
+    background-color: floralwhite;
+}
+
+.nav {
+    width: 10%;
+    justify-content: center;
+    text-align: center;
+}
+
 #sketch {
     justify-content: center;
     display: flex;
