@@ -248,6 +248,8 @@ const scraped_text = [
     "just wish the unemployment benefits wasn't part of the bill, and was separate. i don't think he had much of a choice, but man this sucks."
 ];
 
+// naughty: ’
+
 let itext;
 const info = "Sentences derived from /r/conservative comments. Click the panel to generate a new sentence.";
 const markov = new Markov();
