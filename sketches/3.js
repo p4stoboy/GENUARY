@@ -245,7 +245,165 @@ const scraped_text = [
     'no, it would require a vote. the last vote that took place was to amend $600 to $2000 which gop blocked.',
     'he could force them to change it by vetoing it.',
     'it did not.',
-    "just wish the unemployment benefits wasn't part of the bill, and was separate. i don't think he had much of a choice, but man this sucks."
+    "just wish the unemployment benefits wasn't part of the bill, and was separate. i don't think he had much of a choice, but man this sucks.",
+    'select committee on intelligence\n' +
+    'united states senate',
+    'joe has always been a day late and a dollar short. not a very bright fellow.',
+    "not even comparable to a teacher answering specific questions and deep diving specific parts of the material the student is struggling with.  like i said that's great for self learners but if you need a teacher you need a teacher.",
+    `"it's racist to talk about black on anyone crime."\n` +
+    '\n' +
+    "no. that's not racist. it's actually a great conversation to have on order to address systemic and cultural reasons for the trend.\n" +
+    '\n' +
+    "what's racist is what certain sections of the political spectrum (some of whom who have made their presence known in this thread and sub), which is associating all black people with these offenders who commit such crimes.",
+    'between your spelling and grammar. all you are doing is proving my point. idiot.',
+    'completely disproving the argument made by the op is “brigading”.\n' +
+    '\n' +
+    'do you know how stupid you sound?',
+    `you do realize that most of those judges were trump appointed...right?  do tell, why would they just throw out his court cases because they "didn't like them"?\n` +
+    '\n' +
+    `also, since all the court documents are public knowledge - what do you have to say about the fact that trump's lawyers very rarely argued that there was any election fraud?  with guliani at one point telling a judge "there was no fraud."`,
+    'it\'s a double edged sword. it only works that way if we can assume the district won\'t be greedy. an increase in supply and the competition causes teachers to undercut each other for employment and bring the average salary back down.\n' +
+    '\n' +
+    'what\'s to say that they won\'t do exactly what they already do and shift those new funds to the older teachers already making far above the average perpetuation our current problem even further?',
+    "where is the blaming. it's leftists who are actively hating white people telling us we are white privileged and evil for  taking america fairly",
+    'if trump wanted to be reelected, he should care about the population he serves and less about his ego.',
+    'they "love" the poor every four years or so....because they vote democrat',
+    'huh. you hung out with a 14 year old in your early twenties? what was the point in making up that situation? 20+ upvotes. and some of you wonder why people think this sub is full of racists....',
+    "see that's why i only sing along to rap when i'm alone. nobody can get mad if nobody hears me singing along to bobby shmurda lol",
+    'no just responding appropriately to what was presented.',
+    'but what about the wall guys???',
+    'fake news but of course it gets hundreds of upvotes.',
+    `i didn't - i was frustrated and seeing his statement tonight i am inching back from the edge... to your point tho, this was my first "anti-trump" post and you should see my fucking inbox. holy crap people love to hate.`,
+    'huh, yeah just like obama did.\n',
+    'oh no they care about people who are already poor. they don\'t give a fuck about making more people poor, then they can have more poor people to say they want to save...',
+    'there have been many responses disagreeing with you already, but i just wanted to add that the majority of older asian americans seem to be conservative from my personal experience. there is a clear divide from younger and older asian american, and i think this is one of the few main reasons why neither of the two main parties seem to ever fight for asian american votes. to be fair, we seem to be mostly forgotten by both sides.',
+    'i see both sides of the issue. i tend to agree with you - i do not believe it to be an ethical action, but i also believe that the government can stay out of it. there\'s also much more important issues, and believe it\'s a major drawback to any conservative movement in the us that there are so many people who allow this single issue to drive their vote.',
+    'dang that is cool',
+    'have now - stand corrected. my goodness reddit hates trump tho',
+    'ny, i think you mean nyc. housing prices in nj and ny state are throught the roof. people want space, nyc is pretty shitty with l9ckdowns.',
+    "i presented another even in your moving goal posts. so fox news made another article about it. it wasn't just one article. ready to retract your stance on that?  \n" +
+    'also you have yet to answer any questions i ask, are you incapable of it? if so why?',
+    'you didn\'t address his reason though.',
+    'you realize obama did not support gay marriage right? he believed marriage was only between a man and a woman.',
+    'do you know how close florida came to andrew gillum as governor?',
+    'yeah lol. i\'ve been downvoted so much just for providing more context to this situation. every chance they get, people will hate on the orange man. literally the only reason i started going on this subreddit was because i was so tired of every other subreddit bringing him up randomly just to hate',
+    'how is a video that you shared online private?',
+    "oh yeah, they're asian so they must be related huh?",
+    'if he does it, how do you think the media will flip the news to make it sound like bad news?',
+    'look imma just say it, he\'s barley even black.',
+    'i just have to say that when this child  was saying the n word, she knew what she was doing and should be punished for doing so. lol.. just kidding',
+    'the republican party is fucking us and showing that they don\'t care about the people, they deserve everything that\'s coming to them',
+    'yeah, but you can\'t just chalk up an increased debt to foolhardy decisions. reagan and trump were and are both smart men who realize that the economy is important, but both had to deal with a global catastrophe of some sort. i don\'t give clinton a pass for his economic policies because the 90s were peaceful and uneventful for the most part.',
+    'theatrics',
+    'but he explained to his white father why his father could not respond in kind in gatherings of the black side of his family who used that word. truly this young man will save the world. /s',
+    'well yeah, despite all our magnificent and interesting individual characteristics, pretty sure penniless people can be safely grouped in a category called "poor people".',
+    'why would desperate people go out and murder people? petty crime such as theft would be more probable. murder of this magnitude is more than likely a result of gang wars. especially now that they are aware that the police have little to no desire to intervene.',
+    'after 45 days the funds are available',
+    'sure looked like the college had the patience for it.',
+    'is that what we just sold to sa? $500bn worth of peaceful bombs?',
+    'you mean the welfare state',
+    'maybe if yall could actually stay in lockdown for a hot minute without throwing a hissyfit it would actually work?',
+    'it goes both ways. the black community make racist jokes about asians and have resentment towards them.',
+    'then why are you making blanket statements like “liberals are racist af....”?',
+    'the national defense budget is 686.1 billion.  i\'m sure there\'s lots to cut in the stupidly bloated bills (i\'m looking at you porky the stimulus bill). there\'s 3.5 million teachers in the us.  at 100k each, that would be 350 billion. so roughly half the defense budget gone on one program alone.\n' +
+    '\n' +
+    'but that still doesn\'t solve the bad teacher issue. \n' +
+    '\n' +
+    'i\'m with you that i with the usa would get out of everyone else\'s business, but, i don\'t think halving our defense budget would be the answer.  we\'ve already fucked with things too much. the us has its fingers soo deep in the world it\'s hard to leave, but, at the same time it\'s the only reason the us exists at all anymore. \n' +
+    '\n' +
+    'the united states has become a peddler of services, that produces nearly nothing, is a net importer, and generally adds nothing to the world except for technology. even still, the rest of the world needs that tech. \n' +
+    '\n' +
+    'the only thing keeping the us “on top” is outspending the rest of the worlds militaries although go i\'d agree that it\'s not an excuse to use it.',
+    'been to chicago. great city.',
+    'the guy sounds like a massive piece of shit.',
+    "they like buying 'em and we like building 'em.\n\nit's win/win",
+    'they led to prosecutions unrelated to the crime they were looking for.  pure legal harassment.\n' +
+    '\n' +
+    `prosecutors will try to railroad trump, it's guaranteed and they'll be just like you... they'll swear on their mother's life a "real crime" occurred.  they made ship up to taps trump's phone.  they made shit up to impeach him.  as long as trump remains politically viable, they'll try to railroad him.\n` +
+    '\n' +
+    'look at what happened with the flynn case.  the stupid judge was dragging his heels to keep the flynn case alive even when the doj abandoned the case and trump pardoned him.\n' +
+    '\n' +
+    `"this can't happen in america.  ex-president can't be prosecuted.  democrats wouldn't dare."  of course they will.\n` +
+    '\n' +
+    `leftists around the globe, particularly in brown countries, like prosecuting right wingers that step on commie toes.  look at the black chick in new york, she's on a fucking crusade.  these people are self righteous, fanatical.  they want to "rend" the "white man."`,
+    'why do you keep downvoting me? haha we are not in heavy disagreement. i haven\'t said anything that is untrue (you may not have liked it,  it it\'s not untrue). additionally, i haven\'t downvoted you. what gives? \n' +
+    '\n' +
+    'based on your logic, who do we blame for the debt? do we only blame nixon and gwb? that can\'t be right.',
+    "so? half the shit i post here gets downvoted to oblivion too. it's internet points, who cares?",
+    'aah, saying the quite part out loud again?',
+    'transdimensional chess, because he is such a great deal maker.',
+    'one thing that i find lost in today\'s society is that sort of level-headed discussion.  inherently, we can all agree on the same things and we never will.  honest discussion brings forth new ideas and most importantly, compromise.  that\'s the only way that we can move forward without alienating each other and our media and our current government don\'t want that.\n' +
+    '\n' +
+    'so thanks for being human!',
+    "you realize the whole universe is in a warning trend? i suppose we caused that too? i agree polluting is terrible but the earth goes through warming and cooling trends. not everyone in the scientific community agrees it's man made definitely we contribute but one or two big volcanoes goes off and that dwarfs us. the warming began before the industrial revolution. i think you watched too many al gore movies.",
+    'it\'s not, op just mad ppl can get punished in the real world for using racial slurs',
+    'water rights is the biggie. i was going to bring up this same point. would be a huge challenge for multiple new california states to enter new agreements with nevada and arizona (and i think colorado too). that would be on top of new agreements that used to just be intra-state.',
+    'i\'m pretty sure he did. they had a year in review with all the songs they did. granted i\'m sure he could never sing even close to that good without processing lol',
+    '>her mistake was saying it in public.\n' +
+    '\n' +
+    `not necessarily the case here. her mistake was recording herself saying it. look, if you say it in public, odds are 99% of the time you'll get away with it. its takes only 3 seconds to say the whole line, so odds are even if you say it to a full blown leftist what'll end up is a "he say she say" situation, which most people will ignore. \n` +
+    '\n' +
+    'the problem with this is that once you create digital media of yourself, that media literally exists forever. especially if you send it to someone else. which means that sooner or later it will come back to bite you. its one thing if she wrote that line down in a piece of paper, or scribbled it in the toilet stall, or even say it in public (assuming no recording devices are on). its entirely another if she posted it in social media or recorded herself saying it. \n' +
+    '\n' +
+    '&#x200b;\n' +
+    '\n' +
+    "i do agree with your blaming stupid adults, albeit differently. i dont think these adults cannot process that kids are kids. rather, i view these as malicious, exploitative scum who view kids as easy marks and targets because they are very prone to getting into these kinds of situations and havent given a thought towards defending themselves. these people are exploiting others for their own self gratification and gain, and they have no limitations that stops them from including children in their list of exploitable 'resources'.",
+    'what mistake? she literally recited lyrics written by another person',
+    'how are mail in votes unconstitutional?',
+    'if your main goal is to prevent crime, that $8b would be far more efficient in publicly funding social services',
+    'liberals overwhelming receive the vast majority of useless degrees in universities so it evens out',
+    'yeah our ui down here is so unbelievably pathetic. without the federal aid we wouldve been fucked during the peak of the lockdowns.',
+    "hou are like, an actual piece of shit. you're the resone i'm glad that fat orange twat lost.",
+    'hopefully you can sue those schools. no way this is legal.',
+    "well it didn't take long for racism to make its way into the conversation that's for sure. i guess i should be impressed that you didn't immediately assume i'm black/brown/whatever and start calling out slurs.\n" +
+    '\n' +
+    "you realize criminals can commit multiple crimes right? and that the point of an investigation is to turn up what they did? if police were to investigate a family on suspicion of commiting multiple murders, and in doing so found proof that many members of that family committed manslaughter, 3rd degree murder, thievery, etc. it is still a valid investigation and result. doesn't matter if they couldn't prove beyond a reasonable doubt that the trump campaign didn't collude with russia. what they did discover (numerous financial related crimes and connections with russia) is bad enough. especially when the guy at the top was not directly implicated due to a legal technicality that will soon be gone.\n" +
+    '\n' +
+    'at no point have they made shit up to get at trump. they have been outright ignoring shit and tiptoeing around him because he is the president. come january it would be nice to see him actually be treated like a common person would in the eyes of the justice system.\n' +
+    '\n' +
+    "that's ultimately the hope. that for fucking once this kind of upper 1% elite actually have to pay for their crimes. we can only hope that america would dare allow for justice to be blind to his previous position .",
+    'i just use duckduckgo. is firefox known for / concerned about privacy at all?',
+    'of course i don\'t disagree, we all have communities and relationships outside of our immediate family. that isn\'t what it said, what i\'m pointing out is “disrupt the western-prescribed nuclear family”. in relationship to op\'s comment about the nuclear family being racist, we all know what “western-prescribed” is supposed to mean.',
+    'yeah and going to the gym is body shaming fat people. media, shut the fuck up already',
+    'please read the necessary requirements for trying someone for treason before labeling someone as a traitor in the us.',
+    "that's what you call the soft racism of low expectations.",
+    'they won\'t have orange man to run against and there is a good chance someone who is more disliked than trump/obama etc will be there.',
+    'hi commie.',
+    "it's almost like people are distracted by trump pardoning war criminals and the sudden lapse in caused by trump...if only he'd signed the stimulus a day earlier. but this is the meaty story the liberal media ignoring...",
+    "i would disagree with this completely. if you read the article the demographics of the respondents trend to younger and collegeducated. this demographic tends to go left in general compared with non college education and age. i'm general critical thinking skills are pushed pretty hard in post hs academics. so it's more of a choice. i don't agree with most of their choices. but there is forethought put into it.",
+    "if you peel off that mask, you can see where willie brown's dick has been",
+    'minnesota really is just cold california',
+    'why not just do tax refunds from previously filed taxes for people that have lost their jobs from the pandemic.  heck of a lot less wasted money and people that need it will get their own money back.  am i dumb or would i be an effective government manager',
+    'send in the social workers!',
+    'gotta love when the government cares more about illegal aliens and foreign countries than their own citizens. \n' +
+    '\n' +
+    "fyi the stimulus check don't go to adults in college aged between 18-24. either a. the government doesn't even give 2 shits about us, or b. they have zero clue what its like to be in our shoes so nobody knows we are struggling just as bad as everyone else.",
+    'sounds like a light weekend',
+    'literally?',
+    "if you get downvoted for saying things like that, it's not because you're conservative, it's because whether intentional or not you're being dishonest about the severity of the pandemic. it's not just about your own chances of survival if you get the virus, it's about the fact that if we let it just spread like wildfire throughout the population our hospitals will be completely overwhelmed (which they currently are since so many people can't be bothered to wear masks or social distance). when there are no more hospital beds, when all of the doctors and nurses are taking care of more patients than they can handle, then if you get into a car accident or you have a heart attack or you need treatment for cancer - good luck with that. also the fatality rate of covid is going to be way worse when people have to be turned away from the hospital because there's no more room.\n" +
+    '\n' +
+    "this is also a novel virus and we have literally no data whatsoever regarding the long-term effects of covid. shortness of breath and headaches and temporary loss of smell? previously healthy people are getting blood clots and having strokes. many long-haulers never regained their sense of taste or smell *at all* and like i said, there's no long-term data so who knows if it will ever come back.\n" +
+    '\n' +
+    "i upvote comments that i think are valuable contributions to a discussion and i don't ask or care which party the person belongs to. but yes, if i saw someone downplay the virus with blatant disinformation i would downvote that particular comment. not because they're conservative, but because it's an unscientific and uninformed opinion.\n" +
+    '\n' +
+    "i suggest you look into covid long-haulers. there are a lot of them and none are having a good time. if you want to take the risk and get covid, fine. but i don't and most people don't so the idea that we should just open the entire country back up and act as if there's not a pandemic and make zero efforts to contain the virus in any way is absurd and that's why you get downvoted.",
+    'she sang along with a song that had the racial slur in it. there was no intent to degrade anyone or cause harm.\n' +
+    '\n' +
+    '&#x200b;\n' +
+    '\n' +
+    `you want to get mad at someone, let's get mad at the idiot who wrote the song to include that word in the first place. if we're going to make a word forbidden, it should be forbidden period. none of this "only *we* can use this word" bs. it just confuses the issue.`,
+    'dear op, are you a native american indian? or does your family originate from europe. does anything of that reflect your ability to do your work properly? if yes, why should it be any different for other people?? \n' +
+    'look in that mirror and think about this..',
+    "they'll blame him regardless. everything wrong with the biden admin, is trump's fault. same way obama blamed bush for all the shit that went wrong. bad economy, bad foreign policy, racial riots sparking while he's in power, you name it."
+]
+    [
+    'she sang along with a song that had the racial slur in it. there was no intent to degrade anyone or cause harm.\n' +
+    '\n' +
+    `you want to get mad at someone, let's get mad at the idiot who wrote the song to include that word in the first place. if we're going to make a word forbidden, it should be forbidden period. none of this "only *we* can use this word" bs. it just confuses the issue.`,
+    'dear op, are you a native american indian? or does your family originate from europe. does anything of that reflect your ability to do your work properly? if yes, why should it be any different for other people?? \n' +
+    'look in that mirror and think about this..',
+    "they'll blame him regardless. everything wrong with the biden admin, is trump's fault. same way obama blamed bush for all the shit that went wrong. bad economy, bad foreign policy, racial riots sparking while he's in power, you name it.",
+    '"eradicate white supremacy" is straight up calling for attacks on white people.'
 ];
 
 // naughty: ’
