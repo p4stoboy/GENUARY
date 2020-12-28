@@ -394,9 +394,7 @@ const scraped_text = [
     `you want to get mad at someone, let's get mad at the idiot who wrote the song to include that word in the first place. if we're going to make a word forbidden, it should be forbidden period. none of this "only *we* can use this word" bs. it just confuses the issue.`,
     'dear op, are you a native american indian? or does your family originate from europe. does anything of that reflect your ability to do your work properly? if yes, why should it be any different for other people?? \n' +
     'look in that mirror and think about this..',
-    "they'll blame him regardless. everything wrong with the biden admin, is trump's fault. same way obama blamed bush for all the shit that went wrong. bad economy, bad foreign policy, racial riots sparking while he's in power, you name it."
-]
-    [
+    "they'll blame him regardless. everything wrong with the biden admin, is trump's fault. same way obama blamed bush for all the shit that went wrong. bad economy, bad foreign policy, racial riots sparking while he's in power, you name it.",
     'she sang along with a song that had the racial slur in it. there was no intent to degrade anyone or cause harm.\n' +
     '\n' +
     `you want to get mad at someone, let's get mad at the idiot who wrote the song to include that word in the first place. if we're going to make a word forbidden, it should be forbidden period. none of this "only *we* can use this word" bs. it just confuses the issue.`,
