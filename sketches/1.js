@@ -4,7 +4,7 @@ let cols;
 let step = 0;
 
 function setup() {
-    let myCanvas = createCanvas(400, 400);
+    const myCanvas = createCanvas(400, 400);
     myCanvas.parent("sketch");
     size = 40;
     rows = width / size;

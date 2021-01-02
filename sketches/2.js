@@ -86,7 +86,7 @@ let ca3 = new CA(1200);
 let counter = 0;
 
 function setup() {
-    let myCanvas = createCanvas(800, 400);
+    const myCanvas = createCanvas(800, 400);
     myCanvas.parent("sketch");
     background(255);
     stroke(0);

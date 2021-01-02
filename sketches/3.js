@@ -412,7 +412,7 @@ const markov = new Markov();
 markov.addStates(scraped_text);
 markov.train(7);
 function setup() {
-    let myCanvas = createCanvas(400, 300);
+    const myCanvas = createCanvas(400, 300);
     myCanvas.parent("sketch");
     background(102);
     itext = markov.generateRandom(300);

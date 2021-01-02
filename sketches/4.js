@@ -95,7 +95,7 @@ let h;
 function setup() {
     dudes = [];
     colorMode(HSB, 360, 100, 100);
-    let myCanvas = createCanvas(605, 305);
+    const myCanvas = createCanvas(605, 305);
     myCanvas.parent("sketch");
     background(359);
     stroke(0);
