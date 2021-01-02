@@ -2,7 +2,7 @@ const sketches = [
     {sketch: "1.js", title: 'Triple nested loop'},
     {sketch: "2.js", title: 'Rule 30'},
     {sketch: "3.js", title: 'Make something human'},
-    {sketch: "4.js", title: 'Small areas of symmetry.'},
+    {sketch: "4.js", title: 'Small areas of symmetry'},
 ];
 
 // Thankyou stackoverflow
