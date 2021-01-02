@@ -29,7 +29,7 @@ const scraped_text = [
     "its impossible to use logic with them. it's always about showing their intellectual superiority.",
     "no. it's not about wanting florida to fail, it's about cutting coffin sales.",
     'only accountability for the peasants. not for the leaders or the rich',
-    'yeah well, with millions of asymptomatic positives being counted as ”cases” its getting harder and harder to take that guy seriously.',
+    'yeah well, with millions of asymptomatic positives being counted as cases its getting harder and harder to take that guy seriously.',
     'especially after he got caught lying.',
     'subscribes.  subscribes to this bullshit.',
     'well she had an affair?',
@@ -41,10 +41,10 @@ const scraped_text = [
     "it doesn't. it's just a bunch of r/poltics patients who missed their orangemanbad medication.",
     "lol unscientific.  if the us had had a proper shutdown like say taiwan they'd all be back in business by now.  instead trump made fun of the lockdowns that would have gotten things moving again after a period. instead we're rancid with disease and businesses are closed.  nice one.",
     'can you define ethnic group and racial group, then?',
-    '“i can tell you as far as politics, he never had any yard signs or flags in his window or anything like that. if he did have any political beliefs he kept, that was something he kept to himself”',
+    'i can tell you as far as politics, he never had any yard signs or flags in his window or anything like that. if he did have any political beliefs he kept, that was something he kept to himself',
     'way to be the typical liberal moron who blames everything on the right even with no evidence whatsoever.',
     'not only will they not buy into it they are outperforming whites',
-    'i\'m a liberal loving and living in seattle that comes to this sub to keep up on conservative\'s perspectives too. conservative “news” outlets and socials have way too many conspiracies and soooo much misinformation though. it\'s important to think critically, and check multiple different sources, and keep an open mind, before forming opinions and beliefs. and then be willing to keep your mind open as things change.',
+    'i\'m a liberal loving and living in seattle that comes to this sub to keep up on conservative\'s perspectives too. conservative news outlets and socials have way too many conspiracies and soooo much misinformation though. it\'s important to think critically, and check multiple different sources, and keep an open mind, before forming opinions and beliefs. and then be willing to keep your mind open as things change.',
     "this isn't the climactic battle.  this isn't even the beginning of the end.  it might be the end of the beginning, but its taken decades just to get to this point, and its going to take decades to roll it back (if ever).",
     'reminds me of those japanese admirals in wwii who wanted to hold the last of their fleet in reserve for the one grand climactic battle for their total victory over the allies, while the us took one island after another, bombed one city after another, until japan had nothing to fight *with*.',
     "even if we win all the legality stuff *now*, the left spent decades taking over the media, academia, pop culture, indoctrinating entire generations to the point that 'normal' is crap like cnn being the yardstick of news, misandrist lesbian video games being mainstream, and masturbation instruction being part of the lesson plan for 7 year olds.  that wasn't done by one hero overthrowing the system, but by thousands of nameless boring people you'll never know of doing a little damage here, there, everywhere, putting their lives into it for decades to grind down the foundations.   they had a goal, **they had a plan**, and they kept at it.",
@@ -60,7 +60,7 @@ const scraped_text = [
     'they didnt follow guidelines because the president said it makes them look weak so half the country ignored it and spoiled it for everyone.  other countries with a clear message are back in business.',
     'thank you for the info :)',
     'yikes!',
-    'i don\'t know many asian families that arent conservative in values. asian americans just generally sit out elections on the whole. it\'s really not like they\'re “waking up” it\'s more like they\'re participating',
+    'i don\'t know many asian families that arent conservative in values. asian americans just generally sit out elections on the whole. it\'s really not like they\'re waking up it\'s more like they\'re participating',
     'you sound like a robot.',
     'like maybe if a 9/11 attack had started to happen in multiple cities around the country???with comparable people dying st first, and then more and more with each attack?? and they could be prevented somehow if people put a fucking piece of cotton over half of their face?? like maybe that?',
     "he definitely wasn't a liberal. unfortunate for conservatives, but liberals shouldn't throw mud.",
@@ -170,7 +170,7 @@ const scraped_text = [
     '\n' +
     "many asian american ethnic groups are more successful than white people are. this would not be the case if the left's claims about us society were true, that success is based on privilege and the only way to fix it is to pin all the minorities against white americans and hand over control of our country's wealth to socialists.",
     'you happy about this? this affects all of us.',
-    'so “not a peep from the national news” is the same thing as “they didn\'t post the exact article i wanted them to post!”\n' +
+    'so not a peep from the national news is the same thing as they didn\'t post the exact article i wanted them to post!\n' +
     '\n' +
     'i\'m sorry, your title is simply inaccurate. obviously the media is biased and will cover things more that panders to their base and give more attention to the topics that lean their way but they definitely covered this.',
     'art of the deal right here.',
@@ -188,14 +188,14 @@ const scraped_text = [
     'he got too much negative press with shitty pardon after another so 2k was apparently just a distraction.\n' +
     '\n' +
     'if he really cared, he would have sat down with his party and even the opposition before they passed the fucking bill. he could have pressured  gop, especially with georgia election around the corner, into a 2k bill, especially with democrats agreeing with his 2k proposition within hours of him tweeting.',
-    'you mean like russia “hacking” the 2016 election?',
+    'you mean like russia hacking the 2016 election?',
     'to the left, asians are basically white, and therefore are not newsworthy enough for muh racism or breaking ceilings.',
     "pretty sure that's what common core was invented for. you can interpret data how you want to suit your needs, but if it goes against the liberal agenda...\n" +
     '\n' +
     'das raciss!',
     'trump will not be president in 3 weeks\n\nget ready ladies',
-    'well, i think the poor are simply the ones who need abortion clinics the most. i wouldn\'t consider that “targeting”. if pro-life organizations would set up shop in these areas offering financial support & emotional, finding women  low cost childcare, etc more women would chose to keep the child. & as far as income goes i think that depends on where you\'re employed and by how much more income- international business men may be more inclined to be conservative but not doctors.',
-    'of course he did. all talk. “art of the deal” “fighting for you”\n' +
+    'well, i think the poor are simply the ones who need abortion clinics the most. i wouldn\'t consider that targeting. if pro-life organizations would set up shop in these areas offering financial support & emotional, finding women  low cost childcare, etc more women would chose to keep the child. & as far as income goes i think that depends on where you\'re employed and by how much more income- international business men may be more inclined to be conservative but not doctors.',
+    'of course he did. all talk. art of the deal fighting for you\n' +
     '\n' +
     'all bullshit.',
     "you ain't black",
@@ -203,14 +203,14 @@ const scraped_text = [
     'trump has just become another politician. \n\nwhat a cave.',
     'so did anything change in the bill? was hopeful he was going to pull through with reform',
     'i see two white women, am i missing something ?',
-    'my wife and i just watched “knocked up” today. wtf is this bitch on about?',
+    'my wife and i just watched knocked up today. wtf is this bitch on about?',
     'look at my post history and my parler by the same name. \n' +
     '\n' +
     'i believe in freedom even when it\'s inconvenient for conservatives. because if we can\'t conserve our liberty, we\'re screwed. \n' +
     '\n' +
-    'i didn\'t read the story, just the headline. and my first reaction to it was “so what?”\n' +
+    'i didn\'t read the story, just the headline. and my first reaction to it was so what?\n' +
     '\n' +
-    'if someone sends me a picture of a dead body i\'m gonna be like “eww”. not scrambling around in fear.',
+    'if someone sends me a picture of a dead body i\'m gonna be like eww. not scrambling around in fear.',
     'kinda sad you\'ve got to brag about it but ok',
     'yeh but what is $600 going to do for you.. realistically speaking. depending on where you live in the us $600 aint shit..\n' +
     '\n' +
@@ -227,21 +227,21 @@ const scraped_text = [
     '\n' +
     'i\'m not no the side of the crazy bitch. but didn\'t that one red headed actress do that severed head photo op about trump?\n' +
     '\n' +
-    'who cares about threats, we have “micro aggressions” now. gloves have been off for awhile.',
+    'who cares about threats, we have micro aggressions now. gloves have been off for awhile.',
     '3rd world african nations had a rigorous testing regimen, did they?\n' +
     '\n' +
     'or maybe nations with a median age of 17 and a life expectancy of 58 weren\'t terribly susceptible to chinese coronavirus.',
     'get that logic and knowledge of civics outta here',
-    '“what the hell man!?”',
+    'what the hell man!?',
     `asian americans occupy the same role as european americans in america. they're "colonizers" from somewhere else where the population is both higher and more homogeneous. they're not native to the region and are thus "occupiers" of the land after the american dream, often successfully. there is racism against them, but not more than jewish people. they don't suffer from the same levels of racism as black americans. they have a small population in america, but not internationally. asians don't really fit the liberal definition of the highly oppressed.`,
     'i see what you\'re getting at. so, you don\'t have a problem with the data per se, just the fact it\'s in this sub?',
-    'liberals “you can\'t be conservative, you\'re brown!” i guess my skin colors decides my political party? and they say conservatives are racist.',
+    'liberals you can\'t be conservative, you\'re brown! i guess my skin colors decides my political party? and they say conservatives are racist.',
     `stolen speeches and fake degrees are pretty cringe. so isn't crying "don't tread on me"  and supporting the ones that are doing just that. ignorance you can fix, stupid you can't. did your unemployment run out yet?`,
     'so it\'s just his fault? it\'s not the rest of congresses fault? the ones that delayed this bill for months? it has nothing to do with them it\'s just trumps fault?',
     'like anything has changed? israeli defence forces suddenly stopped shooting palestinians indiscriminately?nope.',
     'fuuuuuuck! why trump? you know this bill is bullshit!',
     'bruh trump basically achieved nothing during his tenure besides a tax cut for the rich and a conservative supreme court. he doesnt give a shit about helping the american people',
-    'the whole “i don\'t owe you anything” attitude... maybe then at&t doesn\'t owe nashville some kind of recompense, “hey y\'all cuntry luvin\' tennessee sunuvaguns, merry xmas from your ever providing friends at at&t!  sorry to send a bomber yer way for christmas.  poor ol\' coot couldn\'t keep up with the times so we had to let him go.  we really didn\'t expect nun o\' this *suicide bombin* to happen as a result of our provokin it.  but hey, don\'t y\'all worry it\'s nobody\'s fault but his.  so here\'s a complimentary christmas card from our family to yers.  happy holidays cowboys and gals!  yeeehaaaw! play dat cuntry twang!”',
+    'the whole i don\'t owe you anything attitude... maybe then at&t doesn\'t owe nashville some kind of recompense, hey y\'all cuntry luvin\' tennessee sunuvaguns, merry xmas from your ever providing friends at at&t!  sorry to send a bomber yer way for christmas.  poor ol\' coot couldn\'t keep up with the times so we had to let him go.  we really didn\'t expect nun o\' this *suicide bombin* to happen as a result of our provokin it.  but hey, don\'t y\'all worry it\'s nobody\'s fault but his.  so here\'s a complimentary christmas card from our family to yers.  happy holidays cowboys and gals!  yeeehaaaw! play dat cuntry twang!',
     'no, it would require a vote. the last vote that took place was to amend $600 to $2000 which gop blocked.',
     'he could force them to change it by vetoing it.',
     'it did not.',
@@ -256,7 +256,7 @@ const scraped_text = [
     '\n' +
     "what's racist is what certain sections of the political spectrum (some of whom who have made their presence known in this thread and sub), which is associating all black people with these offenders who commit such crimes.",
     'between your spelling and grammar. all you are doing is proving my point. idiot.',
-    'completely disproving the argument made by the op is “brigading”.\n' +
+    'completely disproving the argument made by the op is brigading.\n' +
     '\n' +
     'do you know how stupid you sound?',
     `you do realize that most of those judges were trump appointed...right?  do tell, why would they just throw out his court cases because they "didn't like them"?\n` +
@@ -304,7 +304,7 @@ const scraped_text = [
     'you mean the welfare state',
     'maybe if yall could actually stay in lockdown for a hot minute without throwing a hissyfit it would actually work?',
     'it goes both ways. the black community make racist jokes about asians and have resentment towards them.',
-    'then why are you making blanket statements like “liberals are racist af....”?',
+    'then why are you making blanket statements like liberals are racist af....?',
     'the national defense budget is 686.1 billion.  i\'m sure there\'s lots to cut in the stupidly bloated bills (i\'m looking at you porky the stimulus bill). there\'s 3.5 million teachers in the us.  at 100k each, that would be 350 billion. so roughly half the defense budget gone on one program alone.\n' +
     '\n' +
     'but that still doesn\'t solve the bad teacher issue. \n' +
@@ -313,7 +313,7 @@ const scraped_text = [
     '\n' +
     'the united states has become a peddler of services, that produces nearly nothing, is a net importer, and generally adds nothing to the world except for technology. even still, the rest of the world needs that tech. \n' +
     '\n' +
-    'the only thing keeping the us “on top” is outspending the rest of the worlds militaries although go i\'d agree that it\'s not an excuse to use it.',
+    'the only thing keeping the us on top is outspending the rest of the worlds militaries although go i\'d agree that it\'s not an excuse to use it.',
     'been to chicago. great city.',
     'the guy sounds like a massive piece of shit.',
     "they like buying 'em and we like building 'em.\n\nit's win/win",
@@ -363,7 +363,7 @@ const scraped_text = [
     '\n' +
     "that's ultimately the hope. that for fucking once this kind of upper 1% elite actually have to pay for their crimes. we can only hope that america would dare allow for justice to be blind to his previous position .",
     'i just use duckduckgo. is firefox known for / concerned about privacy at all?',
-    'of course i don\'t disagree, we all have communities and relationships outside of our immediate family. that isn\'t what it said, what i\'m pointing out is “disrupt the western-prescribed nuclear family”. in relationship to op\'s comment about the nuclear family being racist, we all know what “western-prescribed” is supposed to mean.',
+    'of course i don\'t disagree, we all have communities and relationships outside of our immediate family. that isn\'t what it said, what i\'m pointing out is disrupt the western-prescribed nuclear family. in relationship to op\'s comment about the nuclear family being racist, we all know what western-prescribed is supposed to mean.',
     'yeah and going to the gym is body shaming fat people. media, shut the fuck up already',
     'please read the necessary requirements for trying someone for treason before labeling someone as a traitor in the us.',
     "that's what you call the soft racism of low expectations.",
@@ -407,6 +407,7 @@ const scraped_text = [
 // naughty: ’
 
 let itext;
+let dafont;
 const info = "Sentences derived from /r/conservative comments. Click the panel to generate a new sentence.";
 const markov = new Markov();
 markov.addStates(scraped_text);
@@ -416,6 +417,8 @@ function setup() {
     myCanvas.parent("sketch");
     background(102);
     itext = markov.generateRandom(300);
+    dafont = loadFont('./Imagine_Font.ttf');
+    textFont(dafont);
 }
 
 function draw() {
@@ -427,10 +430,11 @@ function draw() {
     noStroke();
     textSize(12);
     fill(255, 100, 100);
-    text(info, width / 4, 10, width / 2, 50);
+    text(info, width / 5, 10, width / 1.5, 50);
     fill(0);
-    text(itext, width/4, height/4,
-        width/2,  height/2);
+    textSize(16);
+    text(itext, width / 5, height / 4,
+        width / 1.5,  height/1.5);
 }
 
 function mousePressed() {
