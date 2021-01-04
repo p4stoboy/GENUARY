@@ -4,6 +4,7 @@ const sketches = [
     {sketch: "3.js", title: 'Make something human'},
     {sketch: "4.js", title: 'Small areas of symmetry'},
     {sketch: "5.js", title: 'Code golf'},
+    {sketch: "6.js", title: 'Triangle subdivision'}
 ];
 
 // Thankyou stackoverflow
